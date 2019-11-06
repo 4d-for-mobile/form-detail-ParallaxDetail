@@ -19,7 +19,7 @@
         <!--Details Form-->
         <scene sceneID="yB9-mH-XoX">
             <objects>
-                <viewController automaticallyAdjustsScrollViewInsets="NO" id="JvF-J0-saY" customClass="___TABLE___DetailsForm" customModule="RealSmarter" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="JvF-J0-saY" customClass="___TABLE___DetailsForm" customModule="___PRODUCT___" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Nrk-ZL-sTh">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -83,7 +83,7 @@
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TAG-FD-002" customClass="AnimatableView" customModule="IBAnimatable">
                                                                         <rect key="frame" x="0.0" y="0.0" width="390" height="95"/>
                                                                         <subviews>
-                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TAG-FD-003" customClass="IconLabel" customModule="RealSmarter" customModuleProvider="target">
+                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TAG-FD-003" customClass="IconLabel" customModule="___PRODUCT___" customModuleProvider="target">
                                                                                 <rect key="frame" x="12" y="18" width="366" height="24.666666666666671"/>
                                                                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="21"/>
