@@ -18,7 +18,7 @@ class ___TABLE___DetailsForm: DetailsForm___DETAILFORMTYPE___ {
 
     /// The record displayed in this form
     var record: ___TABLE___ {
-        return super.record as! ___TABLE___
+        return super.record as! ___TABLE___ // swiftlint:disable:this force_cast
     }
 
     @IBOutlet weak var backButton: UIButton!
